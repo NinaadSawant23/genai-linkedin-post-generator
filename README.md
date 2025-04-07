@@ -23,13 +23,18 @@ An AI-powered LinkedIn post generator built with GenAI (LLaMA 3), LangChain, and
 
 ## 🧠 Technologies Used
 
-| Category         | Tools / Libraries                         |
-|------------------|--------------------------------------------|
-| **LLM & GenAI**   | LLaMA 3 (via LangChain + Groq API)         |
-| **Web UI**        | Streamlit                                  |
-| **ML Model**      | scikit-learn, RandomForestRegressor        |
-| **Data Handling** | Pandas, TextBlob, JSON                     |
-| **Other**         | dotenv, joblib, langchain, python-environ |
+
+| Category             | Library / Tool            | Purpose                                                                 |
+|----------------------|---------------------------|-------------------------------------------------------------------------|
+| **Frontend / UI**     | `streamlit`               | Build the interactive web interface for the generator                 |
+| **LLM Framework**     | `langchain_core`, `langchain_groq` | Orchestrate prompts and LLaMA 3 API integration (via Groq)            |
+| **Prompt Engineering**| `PromptTemplate`, `JsonOutputParser` | Create structured prompts and parses LLM responses                    |
+| **LLM Model**         | `ChatGroq` (LLaMA 3)      | Perform actual post generation using the Groq-hosted LLaMA model      |
+| **Machine Learning**  | `scikit-learn`            | Provide RandomForestRegressor for predicting post engagement          |
+| **Model Storage**     | `joblib`                  | Save and load the trained ML model                                   |
+| **NLP / Text Analysis**| `TextBlob`               | Compute sentiment score of post content                               |
+| **Data Handling**     | `pandas`, `json`          | Used to preprocess and manipulate structured post data                 |
+
 
 ## 🧪 Engagement Prediction Model
 
@@ -95,4 +100,3 @@ This project is licensed under the MIT License. See the LICENSE file for details
 - Groq
 - Streamlit
 - Everyone posting great content on LinkedIn 🙏
-![image](https://github.com/user-attachments/assets/c2443a93-f63e-4d58-8b7f-1703a34f2741)
