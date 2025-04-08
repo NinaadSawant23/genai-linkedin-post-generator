@@ -94,9 +94,3 @@ streamlit run main.py
 
 ## 📄 License
 This project is licensed under the MIT License. See the LICENSE file for details.
-
-## 🙌 Acknowledgements
-- LangChain
-- Groq
-- Streamlit
-- Everyone posting great content on LinkedIn 🙏
