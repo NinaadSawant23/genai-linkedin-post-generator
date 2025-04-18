@@ -1,42 +1,402 @@
 [
-  {
-    "text": "Job hunting isn't just about sending out resumes—it's about aligning your mindset, strategy, and network with your professional goals.\n\nWhen I started applying, I quickly realized the importance of structure. Here’s what’s helped me the most:\n\nStep 1: Get Clear on Your Direction\nWhat kind of roles excite you? What industries align with your values?\n\nStep 2: Build a Smart Job Search System\nUse Trello or Notion to track applications\nSet daily/weekly application goals\nMaintain a spreadsheet with company research\n\nStep 3: Optimize Your Profile\nUpdate your LinkedIn\nUse strong keywords\nShow your personality and passion\n\nStep 4: Network Authentically\nReach out to alumni, colleagues, or people in your target industry\nDon’t just ask for a job—ask for advice, share ideas, be human\n\nStep 5: Reflect Often\nRejections hurt, but every one brings you closer to your “yes.”\n\nRemember: you only need one right opportunity.\n\nIf you're on the hunt, you're not alone. Stay focused, stay grounded, and trust the process.\n\n#JobSearchJourney #CareerGrowth #NetworkingTips #MindfulJobHunting",
-    "engagement": 567
-  },
-  {
-    "text": "Looking for a job can feel like a full-time job in itself.\n\nWhat helped me the most wasn’t just applying—it was strategic applying:\nIdentifying roles that truly match my strengths\nCustomizing my resume and cover letter\nReaching out to people inside the companies I admire\n\nAnd of course—tracking it all to avoid burnout.\n\nIt’s okay if progress is slow. Every small step matters. Your next opportunity is closer than you think!\n\n#JobHunting #CareerAdvice #KeepPushing",
-    "engagement": 387
-  },
-  {
-    "text": "Still job hunting? You’re not alone.\nCustomize your applications\nFollow up professionally\nKeep learning along the way\n\nStay patient. Stay hungry. The right role will come.\n\n#JobSearchTips #OpportunityAwaits",
-    "engagement": 243
-  },
-  {
-    "text": "I recently helped a friend redo their resume—and we turned a 2-page list of responsibilities into a 1-page highlight reel of impact.\n\nHere’s the framework I use and recommend to anyone building or refreshing a resume:\nDOs\nLead with a strong summary statement\nFocus on outcomes, not just tasks\nInclude relevant keywords based on job descriptions\nUse action verbs (e.g., “Led,” “Designed,” “Analyzed”)\n\nDON’Ts\nList vague skills like “team player” without context\nCopy-paste job descriptions\nUse outdated formats or long paragraphs\n\nPRO TIP: Use the STAR method to describe achievements:\nSituation ➝ Task ➝ Action ➝ Result\n\nExample:\n> Redesigned website interface (Action), reducing bounce rate by 30% (Result), after identifying UX flaws through user testing (Task/Situation).\n\nMake your resume tell your story—not just your history.\n\n#ResumeTips #JobSearch #CareerDevelopment",
-    "engagement": 472
-  },
-  {
-    "text": "It’s tough out there. Layoffs, rejections, ghosting. We don’t talk enough about the emotional toll job hunting can have.\n\nBut here’s the truth: You are not your unemployment status.\n\nHere are 5 things I remind myself on hard days:\nEvery rejection is redirection\nGrowth happens in discomfort\nRest is productive, too\nThis is a great time to learn and upskill\nSupport is out there—reach out, vent, connect\n\nYour value doesn’t decrease because one recruiter didn’t see it.\nYou’re still building. Still learning. Still worthy.\n\nHang in there, friends. The market is rough, but your resilience is tougher.\n\n#Motivation #JobSearchStruggles #YouGotThis",
-    "engagement": 612
-  },
-  {
-    "text": "Upskilling is the name of the game.\nWhether you’re job hunting or growing in your current role, here are 5 online courses that can accelerate your path:\nData Analytics & Visualization — Coursera, Google Certs\nAI & Machine Learning — DeepLearning.AI\nBusiness Intelligence with Tableau — Udemy\nFrontend Development (React) — freeCodeCamp\nAgile Project Management — edX, LinkedIn Learning\n\nInvesting just 30 minutes a day can open up opportunities you didn’t think possible.\n\n#OnlineCourses #Upskill #CareerAcceleration",
-    "engagement": 503
-  },
-  {
-    "text": "Workshops = Hands-on learning + Networking + Actionable skills\n\nI recently attended a workshop on design thinking, and here’s why I think workshops are underrated:\nYou gain real-world, applied experience\nYou get instant feedback on your ideas\nYou meet others who are growing too\nYou leave with energy and momentum\n\nPro tip: Check your university, LinkedIn events, Eventbrite, and MeetUp for local or virtual workshops!\n\nDon’t just scroll. Build, learn, and connect.\n\n#Workshops #SkillBuilding #ProfessionalDevelopment",
-    "engagement": 355
-  },
-  {
-    "text": "Some days are harder than others. The rejections pile up, the inbox stays quiet, and motivation runs low.\n\nBut you're not alone.\nThis phase will pass.\n\nKeep talking to people.\nKeep learning.\nKeep showing up.\n\nEven the smallest step forward counts as progress.\n\n#JobMarket #ToughTimes #StayMotivated",
-    "engagement": 289
-  },
-  {
-    "text": "Attending a workshop might be the best move you make this month. Why?\n\nBecause workshops = skill-building + networking + confidence boost.\n\nHere are 3 on my radar:\nDesign Thinking by IDEO U\nTableau Bootcamp – DataCamp\nEffective Communication – LinkedIn Learning\n\nInvest 3 hours now. Reap the benefits for months.\n\n#LevelUp #WorkshopWisdom #GrowthHack",
-    "engagement": 419
-  },
-  {
-    "text": "Feeling stuck in your job search? Try picking up a new skill.\n\nHere are 3 high-impact online courses to consider:\nAI for Everyone – Coursera\nJavaScript Essentials – freeCodeCamp\nData Visualization with Tableau – Udemy\n\nYou’ll gain confidence, boost your resume, and stay sharp.\n\nBonus: Most of them are FREE or low-cost!\n\n#SkillUp #OnlineLearning #GrowthMindset",
-    "engagement": 311
-  }
+    {
+        "text": "Job hunting isn't just about sending out resumes\u2014it's about aligning your mindset, strategy, and network with your professional goals.\n\nWhen I started applying, I quickly realized the importance of structure. Here\u2019s what\u2019s helped me the most:\n\nStep 1: Get Clear on Your Direction\nWhat kind of roles excite you? What industries align with your values?\n\nStep 2: Build a Smart Job Search System\nUse Trello or Notion to track applications\nSet daily/weekly application goals\nMaintain a spreadsheet with company research\n\nStep 3: Optimize Your Profile\nUpdate your LinkedIn\nUse strong keywords\nShow your personality and passion\n\nStep 4: Network Authentically\nReach out to alumni, colleagues, or people in your target industry\nDon\u2019t just ask for a job\u2014ask for advice, share ideas, be human\n\nStep 5: Reflect Often\nRejections hurt, but every one brings you closer to your \u201cyes.\u201d\n\nRemember: you only need one right opportunity.\n\nIf you're on the hunt, you're not alone. Stay focused, stay grounded, and trust the process.\n\n#JobSearchJourney #CareerGrowth #NetworkingTips #MindfulJobHunting",
+        "engagement": 567
+    },
+    {
+        "text": "Looking for a job can feel like a full-time job in itself.\n\nWhat helped me the most wasn\u2019t just applying\u2014it was strategic applying:\nIdentifying roles that truly match my strengths\nCustomizing my resume and cover letter\nReaching out to people inside the companies I admire\n\nAnd of course\u2014tracking it all to avoid burnout.\n\nIt\u2019s okay if progress is slow. Every small step matters. Your next opportunity is closer than you think!\n\n#JobHunting #CareerAdvice #KeepPushing",
+        "engagement": 387
+    },
+    {
+        "text": "Still job hunting? You\u2019re not alone.\nCustomize your applications\nFollow up professionally\nKeep learning along the way\n\nStay patient. Stay hungry. The right role will come.\n\n#JobSearchTips #OpportunityAwaits",
+        "engagement": 243
+    },
+    {
+        "text": "I recently helped a friend redo their resume\u2014and we turned a 2-page list of responsibilities into a 1-page highlight reel of impact.\n\nHere\u2019s the framework I use and recommend to anyone building or refreshing a resume:\nDOs\nLead with a strong summary statement\nFocus on outcomes, not just tasks\nInclude relevant keywords based on job descriptions\nUse action verbs (e.g., \u201cLed,\u201d \u201cDesigned,\u201d \u201cAnalyzed\u201d)\n\nDON\u2019Ts\nList vague skills like \u201cteam player\u201d without context\nCopy-paste job descriptions\nUse outdated formats or long paragraphs\n\nPRO TIP: Use the STAR method to describe achievements:\nSituation \u279d Task \u279d Action \u279d Result\n\nExample:\n> Redesigned website interface (Action), reducing bounce rate by 30% (Result), after identifying UX flaws through user testing (Task/Situation).\n\nMake your resume tell your story\u2014not just your history.\n\n#ResumeTips #JobSearch #CareerDevelopment",
+        "engagement": 472
+    },
+    {
+        "text": "It\u2019s tough out there. Layoffs, rejections, ghosting. We don\u2019t talk enough about the emotional toll job hunting can have.\n\nBut here\u2019s the truth: You are not your unemployment status.\n\nHere are 5 things I remind myself on hard days:\nEvery rejection is redirection\nGrowth happens in discomfort\nRest is productive, too\nThis is a great time to learn and upskill\nSupport is out there\u2014reach out, vent, connect\n\nYour value doesn\u2019t decrease because one recruiter didn\u2019t see it.\nYou\u2019re still building. Still learning. Still worthy.\n\nHang in there, friends. The market is rough, but your resilience is tougher.\n\n#Motivation #JobSearchStruggles #YouGotThis",
+        "engagement": 612
+    },
+    {
+        "text": "Upskilling is the name of the game.\nWhether you\u2019re job hunting or growing in your current role, here are 5 online courses that can accelerate your path:\nData Analytics & Visualization \u2014 Coursera, Google Certs\nAI & Machine Learning \u2014 DeepLearning.AI\nBusiness Intelligence with Tableau \u2014 Udemy\nFrontend Development (React) \u2014 freeCodeCamp\nAgile Project Management \u2014 edX, LinkedIn Learning\n\nInvesting just 30 minutes a day can open up opportunities you didn\u2019t think possible.\n\n#OnlineCourses #Upskill #CareerAcceleration",
+        "engagement": 503
+    },
+    {
+        "text": "Workshops = Hands-on learning + Networking + Actionable skills\n\nI recently attended a workshop on design thinking, and here\u2019s why I think workshops are underrated:\nYou gain real-world, applied experience\nYou get instant feedback on your ideas\nYou meet others who are growing too\nYou leave with energy and momentum\n\nPro tip: Check your university, LinkedIn events, Eventbrite, and MeetUp for local or virtual workshops!\n\nDon\u2019t just scroll. Build, learn, and connect.\n\n#Workshops #SkillBuilding #ProfessionalDevelopment",
+        "engagement": 355
+    },
+    {
+        "text": "Some days are harder than others. The rejections pile up, the inbox stays quiet, and motivation runs low.\n\nBut you're not alone.\nThis phase will pass.\n\nKeep talking to people.\nKeep learning.\nKeep showing up.\n\nEven the smallest step forward counts as progress.\n\n#JobMarket #ToughTimes #StayMotivated",
+        "engagement": 289
+    },
+    {
+        "text": "Attending a workshop might be the best move you make this month. Why?\n\nBecause workshops = skill-building + networking + confidence boost.\n\nHere are 3 on my radar:\nDesign Thinking by IDEO U\nTableau Bootcamp \u2013 DataCamp\nEffective Communication \u2013 LinkedIn Learning\n\nInvest 3 hours now. Reap the benefits for months.\n\n#LevelUp #WorkshopWisdom #GrowthHack",
+        "engagement": 419
+    },
+    {
+        "text": "Feeling stuck in your job search? Try picking up a new skill.\n\nHere are 3 high-impact online courses to consider:\nAI for Everyone \u2013 Coursera\nJavaScript Essentials \u2013 freeCodeCamp\nData Visualization with Tableau \u2013 Udemy\n\nYou\u2019ll gain confidence, boost your resume, and stay sharp.\n\nBonus: Most of them are FREE or low-cost!\n\n#SkillUp #OnlineLearning #GrowthMindset",
+        "engagement": 311
+    },
+    {
+        "text": "Just wrapped up a great session on remote work \u2014 and here's what I took away...\n\n#Upskill #ResumeTips",
+        "engagement": 370
+    },
+    {
+        "text": "In my experience with leadership, one thing stands out: mindset matters more than skillset.\n\n#Upskill #LinkedInTips",
+        "engagement": 828
+    },
+    {
+        "text": "When it comes to resume tips, here's a lesson I learned the hard way (and how you can avoid it).\n\n#CareerGrowth #MindsetMatters",
+        "engagement": 652
+    },
+    {
+        "text": "Quick tip for anyone dealing with resume tips: break it down into small, achievable actions.\n\n#Networking #TechTips",
+        "engagement": 887
+    },
+    {
+        "text": "If you're navigating tech skills, remember that consistent effort and learning pays off. Keep pushing.\n\n#RemoteWork #Leadership",
+        "engagement": 247
+    },
+    {
+        "text": "In my experience with personal branding, one thing stands out: mindset matters more than skillset.\n\n#MindsetMatters #Leadership",
+        "engagement": 668
+    },
+    {
+        "text": "When it comes to upskilling, here's a lesson I learned the hard way (and how you can avoid it).\n\n#TechTips #Networking",
+        "engagement": 344
+    },
+    {
+        "text": "Just wrapped up a great session on leadership \u2014 and here's what I took away...\n\n#MindsetMatters #Leadership",
+        "engagement": 696
+    },
+    {
+        "text": "If you're navigating upskilling, remember that consistent effort and learning pays off. Keep pushing.\n\n#JobSearch #MindsetMatters",
+        "engagement": 106
+    },
+    {
+        "text": "When it comes to networking, here's a lesson I learned the hard way (and how you can avoid it).\n\n#JobSearch #CareerGrowth",
+        "engagement": 822
+    },
+    {
+        "text": "Quick tip for anyone dealing with upskilling: break it down into small, achievable actions.\n\n#JobSearch #ResumeTips",
+        "engagement": 307
+    },
+    {
+        "text": "If you're navigating tech skills, remember that consistent effort and learning pays off. Keep pushing.\n\n#JobSearch #Leadership",
+        "engagement": 548
+    },
+    {
+        "text": "Just wrapped up a great session on networking \u2014 and here's what I took away...\n\n#CareerGrowth #TechTips",
+        "engagement": 193
+    },
+    {
+        "text": "If you're navigating remote work, remember that consistent effort and learning pays off. Keep pushing.\n\n#CareerGrowth #LinkedInTips",
+        "engagement": 584
+    },
+    {
+        "text": "In my experience with networking, one thing stands out: mindset matters more than skillset.\n\n#CareerGrowth #JobSearch",
+        "engagement": 726
+    },
+    {
+        "text": "In my experience with networking, one thing stands out: mindset matters more than skillset.\n\n#CareerGrowth #JobSearch",
+        "engagement": 871
+    },
+    {
+        "text": "Quick tip for anyone dealing with career growth: break it down into small, achievable actions.\n\n#RemoteWork #LinkedInTips",
+        "engagement": 659
+    },
+    {
+        "text": "In my experience with mindset, one thing stands out: mindset matters more than skillset.\n\n#MindsetMatters #Leadership",
+        "engagement": 864
+    },
+    {
+        "text": "Just wrapped up a great session on upskilling \u2014 and here's what I took away...\n\n#Upskill #LinkedInTips",
+        "engagement": 476
+    },
+    {
+        "text": "Just wrapped up a great session on resume tips \u2014 and here's what I took away...\n\n#CareerGrowth #Networking",
+        "engagement": 375
+    },
+    {
+        "text": "If you're navigating upskilling, remember that consistent effort and learning pays off. Keep pushing.\n\n#Networking #MindsetMatters",
+        "engagement": 91
+    },
+    {
+        "text": "Quick tip for anyone dealing with job interviews: break it down into small, achievable actions.\n\n#LinkedInTips #Upskill",
+        "engagement": 671
+    },
+    {
+        "text": "When it comes to personal branding, here's a lesson I learned the hard way (and how you can avoid it).\n\n#Upskill #Networking",
+        "engagement": 787
+    },
+    {
+        "text": "If you're navigating career growth, remember that consistent effort and learning pays off. Keep pushing.\n\n#MindsetMatters #RemoteWork",
+        "engagement": 354
+    },
+    {
+        "text": "If you're navigating tech skills, remember that consistent effort and learning pays off. Keep pushing.\n\n#Networking #MindsetMatters",
+        "engagement": 114
+    },
+    {
+        "text": "If you're navigating remote work, remember that consistent effort and learning pays off. Keep pushing.\n\n#JobSearch #LinkedInTips",
+        "engagement": 109
+    },
+    {
+        "text": "Just wrapped up a great session on career growth \u2014 and here's what I took away...\n\n#TechTips #MindsetMatters",
+        "engagement": 334
+    },
+    {
+        "text": "If you're navigating personal branding, remember that consistent effort and learning pays off. Keep pushing.\n\n#ResumeTips #TechTips",
+        "engagement": 113
+    },
+    {
+        "text": "Quick tip for anyone dealing with career growth: break it down into small, achievable actions.\n\n#RemoteWork #LinkedInTips",
+        "engagement": 729
+    },
+    {
+        "text": "In my experience with networking, one thing stands out: mindset matters more than skillset.\n\n#JobSearch #Networking",
+        "engagement": 668
+    },
+    {
+        "text": "Just wrapped up a great session on mindset \u2014 and here's what I took away...\n\n#Leadership #MindsetMatters",
+        "engagement": 266
+    },
+    {
+        "text": "If you're navigating remote work, remember that consistent effort and learning pays off. Keep pushing.\n\n#CareerGrowth #TechTips",
+        "engagement": 578
+    },
+    {
+        "text": "In my experience with career growth, one thing stands out: mindset matters more than skillset.\n\n#LinkedInTips #CareerGrowth",
+        "engagement": 656
+    },
+    {
+        "text": "Quick tip for anyone dealing with personal branding: break it down into small, achievable actions.\n\n#RemoteWork #ResumeTips",
+        "engagement": 789
+    },
+    {
+        "text": "If you're navigating networking, remember that consistent effort and learning pays off. Keep pushing.\n\n#ResumeTips #JobSearch",
+        "engagement": 572
+    },
+    {
+        "text": "In my experience with career growth, one thing stands out: mindset matters more than skillset.\n\n#Networking #MindsetMatters",
+        "engagement": 700
+    },
+    {
+        "text": "If you're navigating career growth, remember that consistent effort and learning pays off. Keep pushing.\n\n#LinkedInTips #ResumeTips",
+        "engagement": 491
+    },
+    {
+        "text": "When it comes to personal branding, here's a lesson I learned the hard way (and how you can avoid it).\n\n#TechTips #Leadership",
+        "engagement": 498
+    },
+    {
+        "text": "Just wrapped up a great session on resume tips \u2014 and here's what I took away...\n\n#LinkedInTips #TechTips",
+        "engagement": 96
+    },
+    {
+        "text": "If you're navigating tech skills, remember that consistent effort and learning pays off. Keep pushing.\n\n#JobSearch #TechTips",
+        "engagement": 497
+    },
+    {
+        "text": "If you're navigating tech skills, remember that consistent effort and learning pays off. Keep pushing.\n\n#Networking #JobSearch",
+        "engagement": 663
+    },
+    {
+        "text": "When it comes to networking, here's a lesson I learned the hard way (and how you can avoid it).\n\n#Leadership #JobSearch",
+        "engagement": 364
+    },
+    {
+        "text": "Just wrapped up a great session on personal branding \u2014 and here's what I took away...\n\n#Networking #Leadership",
+        "engagement": 826
+    },
+    {
+        "text": "If you're navigating leadership, remember that consistent effort and learning pays off. Keep pushing.\n\n#Upskill #JobSearch",
+        "engagement": 427
+    },
+    {
+        "text": "Quick tip for anyone dealing with personal branding: break it down into small, achievable actions.\n\n#Leadership #JobSearch",
+        "engagement": 774
+    },
+    {
+        "text": "If you're navigating networking, remember that consistent effort and learning pays off. Keep pushing.\n\n#ResumeTips #Leadership",
+        "engagement": 223
+    },
+    {
+        "text": "Quick tip for anyone dealing with upskilling: break it down into small, achievable actions.\n\n#ResumeTips #MindsetMatters",
+        "engagement": 281
+    },
+    {
+        "text": "Quick tip for anyone dealing with remote work: break it down into small, achievable actions.\n\n#JobSearch #TechTips",
+        "engagement": 310
+    },
+    {
+        "text": "When it comes to career growth, here's a lesson I learned the hard way (and how you can avoid it).\n\n#Leadership #ResumeTips",
+        "engagement": 738
+    },
+    {
+        "text": "Just wrapped up a great session on resume tips \u2014 and here's what I took away...\n\n#CareerGrowth #RemoteWork",
+        "engagement": 372
+    },
+    {
+        "text": "Quick tip for anyone dealing with personal branding: break it down into small, achievable actions.\n\n#CareerGrowth #Leadership",
+        "engagement": 213
+    },
+    {
+        "text": "In my experience with networking, one thing stands out: mindset matters more than skillset.\n\n#JobSearch #TechTips",
+        "engagement": 445
+    },
+    {
+        "text": "In my experience with career growth, one thing stands out: mindset matters more than skillset.\n\n#Upskill #JobSearch",
+        "engagement": 456
+    },
+    {
+        "text": "If you're navigating personal branding, remember that consistent effort and learning pays off. Keep pushing.\n\n#CareerGrowth #Networking",
+        "engagement": 866
+    },
+    {
+        "text": "Quick tip for anyone dealing with career growth: break it down into small, achievable actions.\n\n#Networking #RemoteWork",
+        "engagement": 807
+    },
+    {
+        "text": "If you're navigating remote work, remember that consistent effort and learning pays off. Keep pushing.\n\n#CareerGrowth #ResumeTips",
+        "engagement": 245
+    },
+    {
+        "text": "In my experience with career growth, one thing stands out: mindset matters more than skillset.\n\n#LinkedInTips #MindsetMatters",
+        "engagement": 778
+    },
+    {
+        "text": "Quick tip for anyone dealing with mindset: break it down into small, achievable actions.\n\n#Upskill #JobSearch",
+        "engagement": 244
+    },
+    {
+        "text": "If you're navigating remote work, remember that consistent effort and learning pays off. Keep pushing.\n\n#CareerGrowth #RemoteWork",
+        "engagement": 155
+    },
+    {
+        "text": "If you're navigating career growth, remember that consistent effort and learning pays off. Keep pushing.\n\n#CareerGrowth #Networking",
+        "engagement": 799
+    },
+    {
+        "text": "In my experience with career growth, one thing stands out: mindset matters more than skillset.\n\n#Leadership #Networking",
+        "engagement": 883
+    },
+    {
+        "text": "Quick tip for anyone dealing with personal branding: break it down into small, achievable actions.\n\n#ResumeTips #Leadership",
+        "engagement": 216
+    },
+    {
+        "text": "Quick tip for anyone dealing with tech skills: break it down into small, achievable actions.\n\n#JobSearch #Leadership",
+        "engagement": 550
+    },
+    {
+        "text": "If you're navigating career growth, remember that consistent effort and learning pays off. Keep pushing.\n\n#TechTips #Networking",
+        "engagement": 896
+    },
+    {
+        "text": "If you're navigating leadership, remember that consistent effort and learning pays off. Keep pushing.\n\n#Networking #RemoteWork",
+        "engagement": 544
+    },
+    {
+        "text": "Just wrapped up a great session on job interviews \u2014 and here's what I took away...\n\n#JobSearch #MindsetMatters",
+        "engagement": 222
+    },
+    {
+        "text": "Just wrapped up a great session on upskilling \u2014 and here's what I took away...\n\n#Leadership #Upskill",
+        "engagement": 404
+    },
+    {
+        "text": "Just wrapped up a great session on job interviews \u2014 and here's what I took away...\n\n#Leadership #Upskill",
+        "engagement": 143
+    },
+    {
+        "text": "In my experience with tech skills, one thing stands out: mindset matters more than skillset.\n\n#Leadership #RemoteWork",
+        "engagement": 130
+    },
+    {
+        "text": "Just wrapped up a great session on personal branding \u2014 and here's what I took away...\n\n#ResumeTips #RemoteWork",
+        "engagement": 778
+    },
+    {
+        "text": "In my experience with job interviews, one thing stands out: mindset matters more than skillset.\n\n#RemoteWork #TechTips",
+        "engagement": 629
+    },
+    {
+        "text": "When it comes to resume tips, here's a lesson I learned the hard way (and how you can avoid it).\n\n#Leadership #Networking",
+        "engagement": 326
+    },
+    {
+        "text": "Just wrapped up a great session on leadership \u2014 and here's what I took away...\n\n#Networking #RemoteWork",
+        "engagement": 602
+    },
+    {
+        "text": "Quick tip for anyone dealing with personal branding: break it down into small, achievable actions.\n\n#Upskill #MindsetMatters",
+        "engagement": 577
+    },
+    {
+        "text": "When it comes to mindset, here's a lesson I learned the hard way (and how you can avoid it).\n\n#RemoteWork #LinkedInTips",
+        "engagement": 729
+    },
+    {
+        "text": "When it comes to personal branding, here's a lesson I learned the hard way (and how you can avoid it).\n\n#RemoteWork #Networking",
+        "engagement": 494
+    },
+    {
+        "text": "When it comes to remote work, here's a lesson I learned the hard way (and how you can avoid it).\n\n#LinkedInTips #TechTips",
+        "engagement": 590
+    },
+    {
+        "text": "When it comes to job interviews, here's a lesson I learned the hard way (and how you can avoid it).\n\n#LinkedInTips #TechTips",
+        "engagement": 510
+    },
+    {
+        "text": "If you're navigating tech skills, remember that consistent effort and learning pays off. Keep pushing.\n\n#Upskill #JobSearch",
+        "engagement": 652
+    },
+    {
+        "text": "In my experience with remote work, one thing stands out: mindset matters more than skillset.\n\n#Leadership #Upskill",
+        "engagement": 84
+    },
+    {
+        "text": "Quick tip for anyone dealing with tech skills: break it down into small, achievable actions.\n\n#LinkedInTips #CareerGrowth",
+        "engagement": 578
+    },
+    {
+        "text": "Just wrapped up a great session on job interviews \u2014 and here's what I took away...\n\n#Upskill #JobSearch",
+        "engagement": 346
+    },
+    {
+        "text": "Quick tip for anyone dealing with career growth: break it down into small, achievable actions.\n\n#TechTips #RemoteWork",
+        "engagement": 801
+    },
+    {
+        "text": "If you're navigating personal branding, remember that consistent effort and learning pays off. Keep pushing.\n\n#ResumeTips #CareerGrowth",
+        "engagement": 437
+    },
+    {
+        "text": "In my experience with career growth, one thing stands out: mindset matters more than skillset.\n\n#ResumeTips #TechTips",
+        "engagement": 202
+    },
+    {
+        "text": "Just wrapped up a great session on remote work \u2014 and here's what I took away...\n\n#TechTips #MindsetMatters",
+        "engagement": 533
+    },
+    {
+        "text": "When it comes to mindset, here's a lesson I learned the hard way (and how you can avoid it).\n\n#TechTips #CareerGrowth",
+        "engagement": 359
+    },
+    {
+        "text": "If you're navigating tech skills, remember that consistent effort and learning pays off. Keep pushing.\n\n#Networking #Upskill",
+        "engagement": 786
+    },
+    {
+        "text": "Quick tip for anyone dealing with mindset: break it down into small, achievable actions.\n\n#CareerGrowth #Upskill",
+        "engagement": 699
+    },
+    {
+        "text": "Just wrapped up a great session on leadership \u2014 and here's what I took away...\n\n#JobSearch #Leadership",
+        "engagement": 733
+    }
 ]
